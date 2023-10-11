@@ -1,11 +1,16 @@
 _repo: Steel-A-Manual-for-Steel-Users_71782
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71782-h/images/cover.jpg
 creator:
   author:
     agent_name: Metcalf, William
     gutenberg_agent_id: '56396'
     url: http://www.gutenberg.org/2009/agents/56396
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71782#Steel-A-Manual-for-Steel-Users
 gutenberg_issued: '2023-10-02'
 identifiers:
   gutenberg: '71782'
